@@ -1,0 +1,154 @@
+body, td, th, select, input, p {
+	font-size: 12px;
+	font-family:Arial, Tahoma, Verdana, Helvetica;color:#000000;
+}
+
+
+.bd {
+font-weight:bold;
+}
+.nm {
+font-weight:normal;
+}
+table{
+border-collapse:collapse;
+}
+
+table td{
+padding:0px; 
+}
+a img {
+	border: 0;
+}
+
+
+.chief {font:10pt Arial, Helvetica, Arial Cyr, sans-serif;}
+.link {font:10pt Arial, Helvetica, Arial Cyr, sans-serif;}
+.mainpx {font:12px Arial, Helvetica, Arial Cyr, sans-serif;}
+
+.title {font: bold 15pt Arial, Helvetica, Arial Cyr, sans-serif;margin:0;}
+.small {font:10px Arial, Helvetica, Arial Cyr, sans-serif;}
+.small1 {font:11px Arial, Helvetica, Arial Cyr, sans-serif;}
+.smallv {font:10px Verdana, Arial, Helvetica, Arial Cyr, sans-serif;}
+.smallv1 {font:10px Verdana, Arial, Helvetica, Arial Cyr, sans-serif; color:#101C79;}
+.boldpx {font: bold 12px Arial, Helvetica, Arial Cyr, sans-serif;}
+
+.fs11{font-size:11px;}
+
+.ul1 {font:10pt Arial, Helvetica, Arial Cyr, sans-serif;list-style : url(/img/general/arrows/sq_blue1.gif);margin:0 10px 0 20px;}
+.ul2 {list-style : none;margin:0px;padding:0;}
+.ul2 li {font:10pt Arial;background:url(/img/general/arrows/sq_blue1.gif) no-repeat 12px 5px;padding:0 10px 0 28px;}
+
+a.blue1 {font: bold 12px Arial, Helvetica, Arial Cyr, sans-serif; color:#101C79; text-decoration:none;}
+a.blue1:hover {font: bold 12px Arial, Helvetica, Arial Cyr, sans-serif; color:#D51840; text-decoration:none;}
+
+a.htitle:link {font: bold 15pt Arial, Helvetica, Arial Cyr, sans-serif; color:#000000; text-decoration:none;}
+a.htitle:visited {font: bold 15pt Arial, Helvetica, Arial Cyr, sans-serif; color:#000000; text-decoration:none;}
+a.htitle:hover {font: bold 15pt Arial, Helvetica, Arial Cyr, sans-serif; color:#000000; text-decoration:underline;}
+
+
+a.hchief:link ,a.hchief:visited ,a.hchief:hover {font: 10pt Arial, Helvetica, Arial Cyr, sans-serif; color:#000000; text-decoration:none;}
+a.blue2:link , a.blue2:visited , a.blue2:hover {font: 12px Arial, Helvetica, Arial Cyr, sans-serif; color:#D51840; text-decoration:underline;}
+
+a.blue3:link ,
+a.blue3:visited ,
+a.blue3:hover {font: 10px Arial, Helvetica, Arial Cyr, sans-serif; color:#D51840; text-decoration:underline;}
+
+a.blue4:link ,
+a.blue4:visited ,
+a.blue4:hover {font: bold 14px Arial, Helvetica, Arial Cyr, sans-serif; color:#D51840; text-decoration:none;}
+
+a.white1:link ,
+a.white1:visited,
+a.white1:hover {font: bold 12px Arial, Helvetica, Arial Cyr, sans-serif; color:#D51840; text-decoration:none;}
+
+a.white2 {font: bold 12px Arial, Helvetica, Arial Cyr, sans-serif; color:#ffffff; text-decoration:none;}
+a.white2:hover {color:#cccccc !important; }
+
+a.white3:link {font: 12px Arial, Helvetica, Arial Cyr, sans-serif; color:#ffffff; text-decoration:none;}
+a.white3:visited {font: 12px Arial, Helvetica, Arial Cyr, sans-serif; color:#ffffff; text-decoration:none;}
+a.white3:hover {font: 12px Arial, Helvetica, Arial Cyr, sans-serif; color:#cccccc; text-decoration:none;}
+
+a.hsmallvfix1:link {font: 10px Verdana, Arial, Helvetica, Arial Cyr, sans-serif; color:#000000; text-decoration:none;}
+a.hsmallvfix1:visited {font: 10px Verdana, Arial, Helvetica, Arial Cyr, sans-serif; color:#000000; text-decoration:none;}
+a.hsmallvfix1:hover {font: 10px Verdana, Arial, Helvetica, Arial Cyr, sans-serif; color:#000000; text-decoration:underline;}
+
+a.hsmallvfix2:link {font: 10px Verdana, Arial, Helvetica, Arial Cyr, sans-serif; color:#30496E; text-decoration:none;}
+a.hsmallvfix2:visited {font: 10px Verdana, Arial, Helvetica, Arial Cyr, sans-serif; color:#30496E; text-decoration:none;}
+a.hsmallvfix2:hover {font: 10px Verdana, Arial, Helvetica, Arial Cyr, sans-serif; color:#30496E; text-decoration:underline;}
+
+.top-nav {
+  display: flex;
+  padding: 2px 0 3px 287px;
+}
+
+.wemeditate {
+  margin: 0 6px;
+  padding: 2px 5px 2px 6px;
+  background: #fff;
+}
+
+.fb-news {
+  margin: 0 5px;
+  padding: 1px 5px;
+  background: #fff;
+}
+
+.two-cols {
+  background: url(/img/general/backgrounds/bg3.gif) repeat-y;
+}
+
+.main-cell {
+  background-repeat: repeat-x;
+  background-color: #b5ddc1;
+}
+
+.frBg {background:#b5ddc1 url(/img/general/backgrounds/bg_fr1.gif) repeat-x;}
+.frDiv {background:#FFFfff  url(/img/front/menu/main1.gif) no-repeat;margin:auto;width:592px; margin-bottom: 20px;}
+.frDivIn {background:url(/img/front/menu/main2.gif) bottom left no-repeat;font:11px Verdana; color:#101C79;text-align:center;padding:10px;}
+.frNewsL {background: url(/img/general/backgrounds/bg2.gif) repeat-y top center;text-align:center;}
+
+#lsm {padding:18px 2px 0 0;border-bottom:2px solid #ffffff;margin-bottom:14px;}
+#lsm a {display:block;border-top:2px solid #ffffff;padding:3px 0 3px 23px;background: #67ACCA url(/img/general/arrows/blue_1.gif) 8px 7px no-repeat;}
+#lsm a.on {background: #80a4c4 url(/img/general/arrows/blue_1.gif) 8px 7px no-repeat !important;}
+#lsm a { font-weight:bold;color:#ffffff;text-decoration:none;}
+#lsm a:hover { color:#cccccc;text-decoration:underline;}
+
+
+#lsm {padding:18px 2px 0 0;border-bottom:2px solid #ffffff;margin-bottom:14px;}
+#lsm a {display:block;font-weight:bold;border-top:2px solid #ffffff;padding:3px 0 3px 23px;background: #67ACCA url(/img/general/arrows/blue_1.gif) 8px 7px no-repeat;}
+#lsm a.on {background: #80a4c4 url(/img/general/arrows/blue_1.gif) 8px 7px no-repeat !important;}
+
+#lsm a.sub {display:block;font-weight:normal !important;border-top:2px solid #ffffff;padding:3px 0 3px 38px;background: #67ACCA url(/img/general/arrows/blue_1.gif) 23px 7px no-repeat !important;}
+#lsm a.subOn {background: #80a4c4 url(/img/general/arrows/blue_1.gif) 23px 7px no-repeat !important;}
+
+#lsm a { color:#ffffff;text-decoration:none;}
+#lsm a:hover { color:#cccccc;text-decoration:underline;}
+
+.item td {padding:0 5px;}
+
+.contactsTable td { padding:3px 3px;}
+
+.fbImg {vertical-align: middle;
+margin: 0 5px 3px 0;}
+
+
+/*-----------------------------------------------------------------------------
+
+  CSS Magic
+
+-----------------------------------------------------------------------------*/
+
+.clearfix:after {
+  content:".";
+  display:block;
+  height:0;
+  clear:both;
+  visibility:hidden;
+}
+.clearfix {display:inline-block;}
+/* Hide from IE Mac \*/
+  .clearfix {display:block;}
+/* End hide from IE Mac */
+
+
